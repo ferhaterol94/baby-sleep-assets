@@ -1,14 +1,126 @@
 [
-  {
-    "id": "1",
-    "name": "Beyaz Gürültü (Test)",
-    "icon": "https://img.icons8.com/color/96/wind.png",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-  },
-  {
-    "id": "2",
-    "name": "Yağmur Sesi (Test)",
-    "icon": "https://img.icons8.com/color/96/rain.png",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
-  }
+    {
+        "id": "1",
+        "name": "Beyaz Gürültü (Test)",
+        "icon": "https://img.icons8.com/color/96/wind.png",
+        "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+        "id": "2",
+        "name": "Yağmur Sesi (Test)",
+        "icon": "https://img.icons8.com/color/96/rain.png",
+        "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+        "id": "3",
+        "name": "Womb Healing",
+        "category": "Uyku",
+        "icon": "https://img.icons8.com/color/96/maternity.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/womb_healing.mp3"
+    },
+    {
+        "id": "4",
+        "name": "Ethereal Ambient",
+        "category": "Uyku",
+        "icon": "https://img.icons8.com/color/96/night.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/ethereal_ambient.mp3"
+    },
+    {
+        "id": "5",
+        "name": "Hair Dryer",
+        "category": "Ev",
+        "icon": "https://img.icons8.com/color/96/hair-dryer.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/hair_dryer.mp3"
+    },
+    {
+        "id": "6",
+        "name": "Lullaby 1",
+        "category": "Uyku",
+        "icon": "https://img.icons8.com/color/96/music-record.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/lullaby_1.mp3"
+    },
+    {
+        "id": "7",
+        "name": "Shushing",
+        "category": "Uyku",
+        "icon": "https://img.icons8.com/color/96/lips.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/shushing.mp3"
+    },
+    {
+        "id": "8",
+        "name": "Lullaby 2",
+        "category": "Uyku",
+        "icon": "https://img.icons8.com/color/96/music-record.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/lullaby_2.mp3"
+    },
+    {
+        "id": "9",
+        "name": "Winter Wind",
+        "category": "Doğa",
+        "icon": "https://img.icons8.com/color/96/wind.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/winter_wind.mp3"
+    },
+    {
+        "id": "10",
+        "name": "Gentle Rain",
+        "category": "Doğa",
+        "icon": "https://img.icons8.com/color/96/rain.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/gentle_rain.mp3"
+    },
+    {
+        "id": "11",
+        "name": "Lullaby 3",
+        "category": "Uyku",
+        "icon": "https://img.icons8.com/color/96/music-record.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/lullaby_3.mp3"
+    },
+    {
+        "id": "12",
+        "name": "Sea Waves",
+        "category": "Doğa",
+        "icon": "https://img.icons8.com/color/96/sea.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/sea_waves.mp3"
+    },
+    {
+        "id": "13",
+        "name": "Kitchen Fan",
+        "category": "Ev",
+        "icon": "https://img.icons8.com/color/96/fan.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/kitchen_fan.mp3"
+    },
+    {
+        "id": "14",
+        "name": "Mother Singing",
+        "category": "Uyku",
+        "icon": "https://img.icons8.com/color/96/mother.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/mother_singing.mp3"
+    },
+    {
+        "id": "15",
+        "name": "Embalar Lullaby",
+        "category": "Uyku",
+        "icon": "https://img.icons8.com/color/96/music-record.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/embalar_lullaby.mp3"
+    },
+    {
+        "id": "16",
+        "name": "Cosmic Serenity",
+        "category": "Uyku",
+        "icon": "https://img.icons8.com/color/96/galaxy.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/cosmic_serenity.mp3"
+    },
+    {
+        "id": "17",
+        "name": "Night Crickets",
+        "category": "Doğa",
+        "icon": "https://img.icons8.com/color/96/cricket-insect.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/night_crickets.mp3"
+    },
+    {
+        "id": "18",
+        "name": "Fireplace",
+        "category": "Doğa",
+        "icon": "https://img.icons8.com/color/96/fire-element.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/fireplace.mp3"
+    }
 ]
