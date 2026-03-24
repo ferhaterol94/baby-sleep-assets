@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Beyaz Gürültü (Test)",
+    "icon": "https://img.icons8.com/color/96/wind.png",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": "2",
+    "name": "Yağmur Sesi (Test)",
+    "icon": "https://img.icons8.com/color/96/rain.png",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  }
+]
