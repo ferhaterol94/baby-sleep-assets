@@ -122,5 +122,103 @@
         "category": "Doğa",
         "icon": "https://img.icons8.com/color/96/fire-element.png",
         "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/fireplace.mp3"
+    },
+    {
+        "id": "19",
+        "name": "Horoz ve Karga",
+        "category": "Animal",
+        "icon": "https://img.icons8.com/color/96/rooster.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/crow_rooster.mp3"
+    },
+    {
+        "id": "20",
+        "name": "Horoz",
+        "category": "Animal",
+        "icon": "https://img.icons8.com/color/96/rooster.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/rooster.mp3"
+    },
+    {
+        "id": "21",
+        "name": "Karda Ayak Sesleri",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/snow.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/snow_footsteps.mp3"
+    },
+    {
+        "id": "22",
+        "name": "Sakin Yağmur",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/rain.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/calming_rain_2.mp3"
+    },
+    {
+        "id": "23",
+        "name": "Su Sesi",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/water.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/water_touch.mp3"
+    },
+    {
+        "id": "24",
+        "name": "Mağarada Su Damlası",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/cave.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/cave_water_drip.mp3"
+    },
+    {
+        "id": "25",
+        "name": "Su Baloncukları",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/bubbles.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/water_bubbles.mp3"
+    },
+    {
+        "id": "26",
+        "name": "Sabah Kuşları 1",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/bird.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/morning_birds_1.mp3"
+    },
+    {
+        "id": "27",
+        "name": "Sabah Kuşları 2",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/bird.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/morning_birds_2.mp3"
+    },
+    {
+        "id": "28",
+        "name": "Sabah Kuşları 3",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/bird.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/morning_birds_3.mp3"
+    },
+    {
+        "id": "29",
+        "name": "Sabah Kuşları 4",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/bird.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/morning_birds_4.mp3"
+    },
+    {
+        "id": "30",
+        "name": "Orman Ambiyansı",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/forest.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/forest_ambience.mp3"
+    },
+    {
+        "id": "31",
+        "name": "Doğa ve Su",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/water.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/sleep_water_nature.mp3"
+    },
+    {
+        "id": "32",
+        "name": "Dinlendirici Su",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/water.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/sleep_water.mp3"
     }
 ]
