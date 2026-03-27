@@ -241,5 +241,68 @@
         "category": "Sleep",
         "icon": "https://img.icons8.com/color/96/star.png",
         "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/twinkle_star.mp3"
+    },
+    {
+        "id": "36",
+        "name": "Binaural Soar",
+        "category": "Sleep",
+        "icon": "https://img.icons8.com/color/96/brain.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/binaural_soar.mp3"
+    },
+    {
+        "id": "37",
+        "name": "Binaural Drifting",
+        "category": "Sleep",
+        "icon": "https://img.icons8.com/color/96/brain.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/binaural_drifting.mp3"
+    },
+    {
+        "id": "38",
+        "name": "Theta Deep Space",
+        "category": "Sleep",
+        "icon": "https://img.icons8.com/color/96/galaxy.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/theta_deep_space.mp3"
+    },
+    {
+        "id": "39",
+        "name": "Theta 542 Hz",
+        "category": "Sleep",
+        "icon": "https://img.icons8.com/color/96/sound-wave.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/theta_542hz.mp3"
+    },
+    {
+        "id": "40",
+        "name": "Theta 448 Hz",
+        "category": "Sleep",
+        "icon": "https://img.icons8.com/color/96/sound-wave.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/theta_448hz.mp3"
+    },
+    {
+        "id": "41",
+        "name": "Beta 20 Hz",
+        "category": "Music",
+        "icon": "https://img.icons8.com/color/96/brain.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/beta_20hz.mp3"
+    },
+    {
+        "id": "42",
+        "name": "Alpha 12 Hz Ocean",
+        "category": "Nature",
+        "icon": "https://img.icons8.com/color/96/sea-waves.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/alpha_12hz_ocean.mp3"
+    },
+    {
+        "id": "43",
+        "name": "Spiritual Frequency",
+        "category": "Sleep",
+        "icon": "https://img.icons8.com/color/96/meditation-guru.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/spiritual_frequency.mp3"
+    },
+    {
+        "id": "44",
+        "name": "Meditation 11 Hz",
+        "category": "Sleep",
+        "icon": "https://img.icons8.com/color/96/meditation-guru.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/meditation_11hz.mp3"
     }
 ]
