@@ -304,5 +304,33 @@
         "category": "Frequency",
         "icon": "https://img.icons8.com/color/96/meditation-guru.png",
         "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/meditation_11hz.mp3"
+    },
+    {
+        "id": "45",
+        "name": "Heartbeat",
+        "category": "Sleep",
+        "icon": "https://img.icons8.com/color/96/heart-with-pulse.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/heartbeat.mp3"
+    },
+    {
+        "id": "46",
+        "name": "Cat Purring",
+        "category": "Animal",
+        "icon": "https://img.icons8.com/color/96/cat.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/cat_purring.mp3"
+    },
+    {
+        "id": "47",
+        "name": "Washing Machine",
+        "category": "Home",
+        "icon": "https://img.icons8.com/color/96/washing-machine.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/washing_machine.mp3"
+    },
+    {
+        "id": "48",
+        "name": "Vacuum Cleaner",
+        "category": "Home",
+        "icon": "https://img.icons8.com/color/96/vacuum-cleaner.png",
+        "url": "https://raw.githubusercontent.com/ferhaterol94/baby-sleep-assets/main/vacuum_cleaner.mp3"
     }
 ]
